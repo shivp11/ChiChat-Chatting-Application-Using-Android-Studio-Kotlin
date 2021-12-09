@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452638201325",
+    "project_id": "chichat-cf62e",
+    "storage_bucket": "chichat-cf62e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452638201325:android:e68c137c1fdc7d068583e4",
+        "android_client_info": {
+          "package_name": "com.example.chichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452638201325-fbdq7kpg7uastqvpfms6u3045mtakrlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApOA1jLWPcTjleUFTJCu3dfwxyzREuUz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452638201325-fbdq7kpg7uastqvpfms6u3045mtakrlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
